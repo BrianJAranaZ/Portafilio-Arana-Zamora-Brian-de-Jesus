@@ -13,3 +13,8 @@ Tarea #996 Hacer un menú en bash que permita elegir la ejecución entre el scri
 ![2](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/0b43ebc0-0a3b-42fd-97dd-41f1c2dd8b4c)
 ![01](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/bee4d7c2-5644-43a9-930c-1d36b121c2a4)
 ![Captura de pantalla 2023-09-19 144149](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/8cbca5fb-63e4-4e59-9962-27057586f76b)
+_____________________________________________________________________________________________________________________________________________
+
+Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
+![CONCEPTO pdf](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/204d913c-7b96-40e6-835f-f75e26f92a47)
+_____________________________________________________________________________________________________________________________________________
