@@ -18,9 +18,7 @@ ________________________________________________________________________________
 Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
 ![CONCEPTO pdf](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/204d913c-7b96-40e6-835f-f75e26f92a47)
 _____________________________________________________________________________________________________________________________________________
-(https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/files/12887978/TAREA.998.-.ARANA.ZAMORA.BRIAN.DE.JESUS.27BV.pdf)
 
-___________________________________________________________________________________
 Tarea #998 Realizar el siguiente ejercicio durante la clase de hoy documentar los resultados en un pdf mediante captura de pantalla y subir el pdf al repositorio como evidencia.
 
 ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/5f25ab9f-801e-4942-ab6e-9ac6d6c484c7)
