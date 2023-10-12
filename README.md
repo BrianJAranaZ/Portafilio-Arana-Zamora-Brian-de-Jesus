@@ -22,5 +22,10 @@ ________________________________________________________________________________
 Tarea #998 Realizar el siguiente ejercicio durante la clase de hoy documentar los resultados en un pdf mediante captura de pantalla y subir el pdf al repositorio como evidencia.
 
 ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/5f25ab9f-801e-4942-ab6e-9ac6d6c484c7)
-
+LINK:
 [TAREA #998 - ARANA ZAMORA BRIAN DE JESUS  27BV.pdf](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/files/12888007/TAREA.998.-.ARANA.ZAMORA.BRIAN.DE.JESUS.27BV.pdf)
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+Tarea #987 Realizar el siguiente laboratorio durante la clase, en un pdf documentar con captura de pantalla los resultados de sus comandos y las respuestas a sus preguntas. Subir el pdf a su repositorio readme.
+![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/c580e6d5-f960-42f3-9578-acd7474ef045)
+
