@@ -28,4 +28,20 @@ ________________________________________________________________________________
 
 Tarea #987 Realizar el siguiente laboratorio durante la clase, en un pdf documentar con captura de pantalla los resultados de sus comandos y las respuestas a sus preguntas. Subir el pdf a su repositorio readme.
 ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/c580e6d5-f960-42f3-9578-acd7474ef045)
+__________________________________________________________________________________________________________________________________________
+
+Tarea Instalar servers de SSH, WEB, BD, PROXY y DNS.
+1. SSH
+   ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/7192c898-395c-4dd3-b2bc-913c0a087977)
+2. WEB
+   ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/3cd1d77d-2ecd-48b4-b498-e01e969a0b11)
+   ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/b0d08281-0f99-4409-b8b7-98e0554e1ebb)
+3. BD
+   ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/a8176253-347a-42db-baec-cf3f2f8970a0)
+4. PROXY
+   ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/626868a0-13ce-43fe-93c1-87ab2c9f6889)
+5. DNS
+   ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/0e670ca8-fc73-4d9f-bdf8-5e5c26e9988b)
+
+
 
