@@ -43,5 +43,6 @@ Tarea Instalar servers de SSH, WEB, BD, PROXY y DNS.
 5. DNS
    ![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/0e670ca8-fc73-4d9f-bdf8-5e5c26e9988b)
 
+![image](https://github.com/BrianJAranaZ/Portafilio-Arana-Zamora-Brian-de-Jesus/assets/108771137/d01a0a20-8096-437a-94ac-f92131759e0d)
 
 
